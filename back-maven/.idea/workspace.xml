@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95c1062a-2046-4f41-8640-46b87f617964" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YFPWrV794tOFxUCwHdlSYiiLTH" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../back-gradle" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="spring.group" />
+      <recent name="spring.enquiry" />
+      <recent name="spring.user" />
+      <recent name="spring.mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="IdentityApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring.IdentityApplication" />
+      <module name="back" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="spring.IdentityApplication" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IdentityApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95c1062a-2046-4f41-8640-46b87f617964" name="Default Changelist" comment="" />
+      <created>1582535403365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582535403365</updated>
+      <workItem from="1582535406621" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582892142060">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582892142060" />
+    <state x="725" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582892122541">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="725" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582892122541" />
+    <state x="837" y="444" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582535429069">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="837" y="444" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582535429069" />
+    <state x="746" y="439" width="494" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583320785534">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="746" y="439" width="494" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1853.1053@67.27.1853.1053" timestamp="1583320785534" />
+    <state x="439" y="27" width="1088" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583318332615">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="439" y="27" width="1088" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583318332615" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583323353733">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583323353733" />
+    <state width="1807" height="2" key="GridCell.Tab.0.bottom" timestamp="1583324591302">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="2" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583324591302" />
+    <state width="1807" height="2" key="GridCell.Tab.0.center" timestamp="1583324591300">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="2" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583324591300" />
+    <state width="1807" height="2" key="GridCell.Tab.0.left" timestamp="1583324591299">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="2" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583324591299" />
+    <state width="1807" height="2" key="GridCell.Tab.0.right" timestamp="1583324591301">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="2" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583324591301" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1583323453463">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583323453463" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1582882685595">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582882685595" />
+  </component>
+</project>
